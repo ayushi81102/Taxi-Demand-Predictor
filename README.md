@@ -51,10 +51,4 @@ Before you run this API, you must get your API key from https://www.visualcrossi
    source venv/bin/activate
    pip install -r requirements.txt
    python3 manage.py runserver 
-```
-# Team Members
-- [Arman Salahshour](https://github.com/Arman-Salahshour?tab=followers)
-- [Paniz Baratnejad](https://github.com/panij)
-- Anahita Kia
-- Javad Maddah
-- [Rozhan Mirzaei](https://github.com/RozhanMk)
+
